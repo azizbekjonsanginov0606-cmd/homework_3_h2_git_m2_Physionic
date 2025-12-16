@@ -1,0 +1,9 @@
+@import "tailwindcss";
+/* Custom styles can be added below */
+
+.s1i{
+    background-image: url(./img/background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
